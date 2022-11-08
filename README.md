@@ -1,7 +1,7 @@
 👋 Hi, I‘m Rong Liu, who is
 - a first-year master student at USC
 - interested in Computer Vision and Deep Learning
-- currently learning image style transfer and image generation
+- currently learning Image Style Transfer and Image Generation
 - expecting the potential of AI & Art
 - looking for research opportunities 
 
