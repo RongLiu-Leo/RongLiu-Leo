@@ -6,4 +6,4 @@ I’m a Research Engineer affiliated with the USC Institute for Creative Technol
 
 For more details, visit my [website](https://rongliu-leo.github.io/).
 
-[![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=RongLiu-Leo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=RongLiu-Leo&show_icons=true)](https://github-readme-stats.vercel.app/api?username=RongLiu-Leo&show_icons=true&rank_icon=percentile)
